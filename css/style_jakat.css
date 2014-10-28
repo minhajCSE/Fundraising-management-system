@@ -1,0 +1,117 @@
+fix{
+    overflow: hidden;
+}
+.main{
+    width: 1000px;
+    margin: 0 auto;
+    height: 930px;
+    font-family: arial;
+    font-size: 20px;
+}
+.h_text{
+	font-family:'CooperBlack';
+	font-size:38px;
+	color:#2C519E;
+}
+.body_wrapper_calculator{
+	width:1000px;
+	margin:auto;
+	height:auto; 
+}
+
+.cal{margin:50px;border:1px}
+.gold{}
+.silver{}
+.crops_naturally{}
+.crops_water{}
+.cash{}
+.loans{}
+.profit{}
+.stock{}
+.due_payment{}
+.land{}
+.btn-zakat{
+    margin-left:622px;
+    padding-bottom: 100px;
+}
+.a1{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+.a2{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+.a3{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+.a4{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+.a5{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+.a6{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+.a7{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+.a8{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+.a9{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+.a10{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+
+.num1{height:36px;float:right;margin:8px 68px 0px 0px;width:px;margin-right:8px;}
+.num2{height:36px;float:right;margin:8px 68px 0px 0px;width:px;margin-right:8px;}
+.num3{height:36px;float:right;margin:8px 68px 0px 0px;width:px;margin-right:8px;}
+.num4{height:36px;float:right;margin:8px 68px 0px 0px;width:px;margin-right:8px;}
+.num5{height:36px;float:right;margin:8px 68px 0px 0px;width:px;margin-right:8px;}
+.num6{height:36px;float:right;margin:8px 68px 0px 0px;width:px;margin-right:8px;}
+.num7{height:36px;float:right;margin:8px 68px 0px 0px;width:px;margin-right:8px;}
+.num8{height:36px;float:right;margin:8px 68px 0px 0px;width:px;margin-right:8px;}
+.num9{height:36px;float:right;margin:8px 68px 0px 0px;width:px;margin-right:8px;}
+.num10{height:36px;float:right;margin:8px 68px 0px 0px;width:px;margin-right:8px;}
+
+.b1{float:left;width:270px;border:1px solid black;height:55px}
+.b1{float:left;width:270px;border:1px solid black;height:55px}
+.b1{float:left;width:270px;border:1px solid black;height:55px}
+.b1{float:left;width:270px;border:1px solid black;height:55px}
+.b1{float:left;width:270px;border:1px solid black;height:55px}
+.b1{float:left;width:270px;border:1px solid black;height:55px}
+.b1{float:left;width:270px;border:1px solid black;height:55px}
+.b1{float:left;width:270px;border:1px solid black;height:55px}
+.b1{float:left;width:270px;border:1px solid black;height:55px}
+.b1{float:left;width:270px;border:1px solid black;height:55px}
+
+.calculate{float:right;margin:10px 20px 0px 0px;padding:10px;width:100px;}
+.reset{float:right;margin:10px 30px 0px 0px;padding:10px;width:100px;}
+
+
+.a1 p{margin:14px 0px 0px 15px}
+.a2 p{margin:14px 0px 0px 15px}
+.a3 p{margin:14px 0px 0px 15px}
+.a4 p{margin:14px 0px 0px 15px}
+.a5 p{margin:14px 0px 0px 15px}
+.a6 p{margin:14px 0px 0px 15px}
+.a7 p{margin:14px 0px 0px 15px}
+.a8 p{margin:14px 0px 0px 15px}
+.a9 p{margin:14px 0px 0px 15px}
+.a10 p{margin:14px 0px 0px 15px}
+
+.total{
+    margin-top: 100px;
+}
+
+.taka{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;margin-top:30px}
+.taka1{
+    float: right;
+    width: 270px;
+    border: 1px solid black;
+    height: 55px;
+    margin-top: 26px;
+    margin-right: 21px;
+}
+.total1{height:36px;float:right;margin:9px 68px 0px 0px;width:250px;margin-right:8px;}
+.taka p{margin:14px 0px 0px 15px}
+.zakat-givel-area{
+    margin-top: 200px;
+}
+.jakat_given{float:left;width:609px;border:1px solid black;height:55px;color:#2C519E;}
+.jakat1{
+    float: right;
+    width: 270px;
+    border: 1px solid black;
+    height: 55px;
+    margin-right: 21px;
+}
+.given_jakat{height:36px;float:right;margin:9px 68px 0px 0px;width:250px;margin-right:8px;}
+.jakat_given p{margin:14px 0px 0px 15px}
+
+
+
+
+/*end code for social bar*/
