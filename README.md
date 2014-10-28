@@ -4,6 +4,7 @@ Fundraising Management System
 Fundraising management system is web application to help people raising fund in many aspect.Fundraising is the process of collecting money or other resources by requesting donations from individuals, business, charitable foundations or governmental agencies. In fundraising process people are contribute as volunteer to collect funds.
 
 You can run this application in your pc :
+
 Admin Url : localhost/fundraising/administrator
 
 Admin Username: minhajul
